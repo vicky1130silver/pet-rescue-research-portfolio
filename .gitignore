@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+~$*
+*.inspect.ndjson
+project-survey-results.json
+responses-private.csv
