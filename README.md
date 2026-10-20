@@ -50,10 +50,8 @@ cd 02-analysis
 python analyze.py
 ```
 
-脚本仅需Python 3标准库。导入实际匿名答卷后，可运行：
+脚本仅需Python 3标准库。可运行：
 
 ```bash
 python analyze.py --responses ../01-research/responses-template.csv
 ```
-
-模板当前只有字段，未填入或模拟受访者答卷。空模板运行不会生成虚构结果。
