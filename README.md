@@ -4,7 +4,7 @@
 
 **大学生创新创业大赛 · 项目负责人（5人团队） · 2023.06—2024.06 · 省级二等奖**
 
-![项目总览](05-deliverables/project-overview.png)
+![项目总览](05-deliverables/project-overview.jpg)
 
 [下载最终可编辑PPTX](05-deliverables/project-overview-final.pptx) · [阅读简历分段表述](05-deliverables/resume-summary.md) · [查看结论与建议](05-deliverables/conclusions.md)
 
